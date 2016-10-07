@@ -2,11 +2,11 @@
 
 The National Renewable Energy Laboratory (NREL)'s Renewable Resource Data Center (RReDC) features the following solar resource models and tools that are available for use by the public.
 
-##[Bird Clear Sky Model](http://rredc.nrel.gov/solar/models/clearsky/)
+##[Bird Clear Sky Model](BirdClearSkyModel)
 
 This algorithm estimates clear sky direct beam, hemispherical diffuse, and total hemispherical solar radiation for horizontal planes.
 
-##[Bird Simple Spectral Model](http://rredc.nrel.gov/solar/models/spectral/)
+##[Bird Simple Spectral Model](BirdSimpleSpectralModel)
 
 This model computes clear sky spectral direct beam, hemispherical diffuse, and hemispherical total irradiances on tilted or horizontal planes.
 
@@ -43,4 +43,4 @@ SPA calculates the solar position with very low uncertainty based on location, d
 SOLPOS calculates the solar position and intensity based on location, date, and time inputs for the years 1950–2050.
 
 # Release Notes
-* September 13, 2016: These pages are in the process of being relocated from [RReDC](http://www.nrel.gov/rredc/models_tools.html). 
+* October 7, 2016: These pages are in the process of being relocated from [RReDC](http://www.nrel.gov/rredc/models_tools.html). All codes and executables are still hosted on RReDC.
